@@ -1,0 +1,6 @@
+@RentGoodiesAPI_HostAddress = http://localhost:5038
+
+GET {{RentGoodiesAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
